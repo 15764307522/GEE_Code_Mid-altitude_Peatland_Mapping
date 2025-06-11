@@ -1,2 +1,2 @@
 # GEE_Code_Mid-altitude_Peatland_Mapping
-This code was written using the Google Earth Engine (GEE) JavaScript API for large-scale mapping of peatlands in the Changbai Mountains of northeastern China using multi-source remotely sensed data and machine learning (Random Forest Algorithm) on GEE.
+This code was written using the Google Earth Engine (GEE) JavaScript API for large-scale mapping of peatlands in the Changbai Mountains of northeastern China using multi-source remotely sensed data and machine learning (Random Forest Algorithm) on GEE.This code is associated with the study titled: "Mapping mid-altitude peatlands using Sentinel-1/2 images and machine learning in the mountainous region of Northeastern China". 
